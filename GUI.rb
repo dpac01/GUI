@@ -24,7 +24,7 @@ class GUI < Test::Unit::TestCase
   end
 
 # Positive test case, check if on entering all the required fields, the form submits correctly
- def test_validinput
+ def test_validinput1
     @driver.navigate.to(@url)
     element = @driver.find_element(:id,'entry_1041466219') # Find the name field
     element.send_keys("Michael")
