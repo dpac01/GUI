@@ -1,4 +1,6 @@
-# The Selenium_Ruby script contains unit test cases for the web form. The script is in Ruby and uses Webdriver/Selenium for execution. The script runs using the chrome driver. Following are the test cases in the script:
+# The Selenium_Ruby script contains unit test cases for the web form. 
+
+The script is in Ruby and uses Webdriver/Selenium for execution. The script runs using the chrome driver. Following are the test cases in the script:
 
 setup - Initialize the webdriver before every test. Set the URL and webdriver version and add an implicit wait.
 
